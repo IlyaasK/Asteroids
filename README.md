@@ -1,4 +1,4 @@
-#Could do:
+# Could do:
 
 - Add a scoring system
 - Implement multiple lives and respawning
@@ -14,4 +14,5 @@
 - Add bombs that can be dropped
 
 Made this as a project for boot.dev
+
 
